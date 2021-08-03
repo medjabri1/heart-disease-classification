@@ -6,14 +6,14 @@ In this example we are using the **Naïve Bayes** classifier to solve a an examp
 To solve this problem we need an **_Initial data_** to **train** and also **test** the model we gonna create, and for that reason we used this dataset from Kaggle.com : [Heart Disease Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
 
 - #### Steps 
-	1- Download data from the source.
-	2- **Import** the **data** and study its **structure, description, observations**.
-	3- Visualize **missing data**.
-	4- **General visualizations** on data to understand more the relation between its parameters.
-	5- Split the data into **_Training data_** and **_Testing data_**.
-	6- Create **_Naïve Bayes Classifier_** and train it with **_Training data_**.
-	7- **Test the model** classification with the **_Testing data_**.
-	8- **Evalute** the prediction results with **_Confusion Matrix_**.
+	1- Download data from the source.&nbsp;
+	2- **Import** the **data** and study its **structure, description, observations**.&nbsp;
+	3- Visualize **missing data**.&nbsp;
+	4- **General visualizations** on data to understand more the relation between its parameters.&nbsp;
+	5- Split the data into **_Training data_** and **_Testing data_**.&nbsp;
+	6- Create **_Naïve Bayes Classifier_** and train it with **_Training data_**.&nbsp;
+	7- **Test the model** classification with the **_Testing data_**.&nbsp;
+	8- **Evalute** the prediction results with **_Confusion Matrix_**.&nbsp;
 			 
 
 - #### What is Naïve Bayes ?
